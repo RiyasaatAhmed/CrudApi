@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.link {
+  text-align: end;
+}
+
 .container{
   max-width: 75vw;
   margin: auto;
