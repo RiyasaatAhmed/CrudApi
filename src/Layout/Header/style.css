@@ -1,0 +1,7 @@
+.Container {
+    /* background-color: #222222; */
+    background-color: #55efc4;
+    background-image: linear-gradient(315deg, #55efc4 0%, #000000 65%);
+    padding: 1rem;
+    color: white;
+}
